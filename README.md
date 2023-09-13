@@ -1,4 +1,6 @@
-# Caso_palindrome
+# Caso_palindromo
+Integrantes: Diego Beñaldo 
+             Maximiliano Sepúlveda 
 
 Paso 1: Leer y entender el contexto problema. 
 
