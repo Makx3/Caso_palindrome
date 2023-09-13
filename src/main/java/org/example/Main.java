@@ -13,6 +13,7 @@ public class Main {
         boolean resultado3 = esPalindromo(cadena3);
         System.out.println(resultado3); // Esto imprimirá true, ya que "issac no ronca asi" es un palíndromo con espacios.
     }
+
     public static boolean esPalindromo(String cadena) {
         // Elimina espacios en blanco y convierte la cadena a minúsculas
         cadena = cadena.replaceAll("\s", "").toLowerCase();
